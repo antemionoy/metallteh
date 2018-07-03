@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'DINPro-Regular';
+     src:url('DINPro-Regular.woff') format('woff'),
+         url('DINPro-Regular.otf') format('otf'),
+         url('DINPro-Regular.ttf')format('ttf'),
+         url('DINPro-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
